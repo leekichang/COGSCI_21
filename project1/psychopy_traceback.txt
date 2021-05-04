@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "D:\PsychoPy3\lib\site-packages\psychopy\app\builder\dialogs\paramCtrls.py", line 353, in openExcel
+    os.startfile(file)
+FileNotFoundError: [WinError 2] 지정된 파일을 찾을 수 없습니다: 'D:\\PsychoPy3\\lib\\site-packages\\psychopy\\experiment\\loopTemplate.xltx'
